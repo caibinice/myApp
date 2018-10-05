@@ -32,6 +32,7 @@ public class QRcodeActivity extends AppCompatActivity implements View.OnClickLis
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_qrcode);
         initView();
+        setTitle("二维码功能");
         mContext = this;
     }
 
