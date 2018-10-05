@@ -1,4 +1,6 @@
 # Android Demo
+页面展示  
+![img](https://github.com/caibinice/myApp/blob/master/screenshot1.gif)
 ### 10.02
 创建了Android Studio项目,依照官方文档熟悉android四大组件  
 使用了button、textView等元素，新建了转至其他Activity的导航。  
